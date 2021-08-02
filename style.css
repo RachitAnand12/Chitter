@@ -1,0 +1,43 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+body
+{
+background-image: linear-gradient(to right top, #e2fb00, #f8d226de, #4dbd0ccc, #e5ff00, #f9fd1d);
+}
+
+
+.header img
+{
+	width: 80px;margin-left: -15px;
+}
+
+
+
+
+#output
+{
+	padding: 10px; width:80%;background: rgba(255,255,255,0.8);border-radius: 15px;
+}
+
+
+.input_div_message_page button
+{
+	margin-top: 15px;
+	width: 50%; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
